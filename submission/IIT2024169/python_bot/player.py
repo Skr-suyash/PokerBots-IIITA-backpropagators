@@ -40,7 +40,7 @@ try:
 except ImportError:
     EVAL7_AVAILABLE = False
 
-# ---------- Constants ----------
+# ---------- Constants ----------give
 BOUNTY_RATIO = 1.5
 BOUNTY_CONSTANT = 10
 ROUNDS_PER_BOUNTY = 25
